@@ -1,0 +1,29 @@
+html{
+    width: 100%;
+    height: 100%;
+}
+
+body{
+    width: 100%;
+    height: 100%;
+}
+
+
+/* font size */
+.font-15{
+    font-size: 15px;
+}
+
+/* viền của bảng */
+.border-ra-10{
+    border-radius: 10px;
+}
+
+.bg-color-lblue{
+    background-color: #0085baea;
+}
+
+/* padding */
+.m-bttm-50{
+    margin-bottom: 50px;
+}
